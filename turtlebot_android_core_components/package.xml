@@ -14,5 +14,5 @@
 
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>rosjava_tools</build_depend>
-  <build_depend>android_apps_core_components</build_depend>
+  <build_depend>rocon_android_application_management</build_depend>
 </package>
