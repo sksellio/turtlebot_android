@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <name>turtlebot_android</name>
+  <version>0.0.0</version>
+  <description>
+    This stack contains applications for turtlebot.
+  </description>
+  <url>http://ros.org/wiki/turtlebot_android</url>
+  <maintainer email="jorge@yujinrobot.com">Jorge Santos</maintainer>
+  <license>Apache 2.0</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>rosjava_tools</build_depend>
+
+  <run_depend>rosjava_tools</run_depend>
+
+</package>
+
