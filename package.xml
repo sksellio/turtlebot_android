@@ -12,8 +12,12 @@
   <buildtool_depend>catkin</buildtool_depend>
 
   <build_depend>rosjava_tools</build_depend>
+  <build_depend>android_osrf</build_depend>
+  <build_depend>android_apps</build_depend>
 
   <run_depend>rosjava_tools</run_depend>
+  <run_depend>android_osrf</run_depend>
+  <run_depend>android_apps</run_depend>
 
 </package>
 

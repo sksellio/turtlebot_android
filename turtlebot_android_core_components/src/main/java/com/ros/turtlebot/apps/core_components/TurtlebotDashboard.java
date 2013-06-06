@@ -37,7 +37,7 @@ package com.ros.turtlebot.apps.core_components;
 import java.util.HashMap;
 import java.util.List;
 
-import org.ros.android.robotapp.Dashboard.DashboardInterface;
+import org.ros.android.apps.core_components.Dashboard.DashboardInterface;
 import org.ros.android.view.BatteryLevelView;
 import org.ros.exception.RemoteException;
 import org.ros.exception.RosException;
